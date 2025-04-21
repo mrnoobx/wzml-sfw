@@ -13,7 +13,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002180300815"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -69,7 +69,7 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 <a href="{url_cast}">Read More ...</a>"""
 
 # Task Tools
-FORCE_SUB_IDS = ""
+FORCE_SUB_IDS = "-1002310978225"
 MEDIA_STORE = True
 DELETE_LINKS = False
 CLEAN_LOG_MSG = False
@@ -82,7 +82,7 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
@@ -143,8 +143,8 @@ LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_CAPTION = ""
-LEECH_DUMP_CHAT = ""
-THUMBNAIL_LAYOUT = ""
+LEECH_DUMP_CHAT = "-1002428562251"
+THUMBNAIL_LAYOUT = "https://i.ibb.co/tPs5tg3f/0f7b52999826.jpg"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
