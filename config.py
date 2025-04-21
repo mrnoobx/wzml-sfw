@@ -129,7 +129,7 @@ USENET_SERVERS = [
 
 # Update
 UPSTREAM_REPO = "https://github.com/ZxLbni/WZML-X-"
-UPSTREAM_BRANCH = "master"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
 # Leech
