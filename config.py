@@ -1,9 +1,10 @@
-# REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7881934453:AAH38A4dHvwn1hU8HMziaTlFeJ-lZFH4SmI"
+OWNER_ID = 7442532306
+TELEGRAM_API = 29382018
+TELEGRAM_HASH = "4734a726c04620c61ec0a28a1ae0d57f"
+
+# SEMI-REQUIRED, WE SUGGEST TO FILL IT FROM MONGODB
+DATABASE_URL = "mongodb+srv://mrnoobx:DAZCdTczVWyECi04@cluster0.sedgwxy.mongodb.net/?retryWrites=true&w=majority"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -87,7 +88,7 @@ TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GD_DESP = "Uploaded with noob Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
@@ -127,7 +128,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/ZxLbni/WZML-X-"
 UPSTREAM_BRANCH = "master"
 UPDATE_PKGS = False
 
