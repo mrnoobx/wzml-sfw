@@ -1,4 +1,4 @@
-BOT_TOKEN = "7263651194:AAGyRNH3_EVkb4r0q9DQjGqQvkvU7sPSBog"
+BOT_TOKEN = "7881934453:AAHgtz7nznTJ1c8vRg_6VRpiQp70aZ3j9iI"
 OWNER_ID = 7442532306
 TELEGRAM_API = 29382018
 TELEGRAM_HASH = "4734a726c04620c61ec0a28a1ae0d57f"
@@ -13,7 +13,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1002180300815"
+AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -128,7 +128,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/mrnoobx/WZML-X-"
+UPSTREAM_REPO = "https://github.com/mrnoobx/Wzml-noob"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
