@@ -13,7 +13,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1002403729550"
+AUTHORIZED_CHATS = "-1002180300815"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -128,7 +128,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/mrnoobx/Wzml-noob"
+UPSTREAM_REPO = "https://github.com/mrnoobx/wzml-sfw"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
