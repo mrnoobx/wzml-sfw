@@ -128,7 +128,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/mrnoobx/wzml-sfw"
+UPSTREAM_REPO = "https://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@github.com/mrnoobx/wzml-sfw"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
